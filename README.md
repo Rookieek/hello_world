@@ -1,2 +1,3 @@
 # hello_world
-First repository Only for 
+First repository Only for start.
+I don't know what to say...
